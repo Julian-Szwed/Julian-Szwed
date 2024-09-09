@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Julian-Szwed
+- 👀 I’m interested in develop web pages
+- 🌱 I’m currently learning web desing & web development
+- 📫 How to reach me jszwed22@gmail.com
